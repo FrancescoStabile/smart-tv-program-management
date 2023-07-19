@@ -1,4 +1,4 @@
-# smart-tv-recommendation-system
+# smart-tv-program-management
 A command-line application for managing television programs on a Smart TV. Developed in the C programming language, it offers a range of functionalities for program management, including program insertion, modification, deletion, searching, and viewing.
 
 The program utilizes text files as a database to store information about television programs, allowing users to interact with the Smart TV and manage programs according to their preferences.
